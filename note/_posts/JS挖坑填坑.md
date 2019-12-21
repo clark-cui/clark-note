@@ -383,7 +383,7 @@ jquery ajax拼接token到request-header
 
 #####  return用于if或者函数中
 
-用了return就终止执行，跳出大圈，后面的代码都不会执行。
+用了return就终止执行，跳出函数，后面的代码都不会执行。
 
 return; return true;return false;
 

@@ -133,3 +133,5 @@ https://www.cnblogs.com/detectiveHLH/p/9928915.html
 vscode插件
 
 https://levelup.gitconnected.com/15-vs-code-extension-to-save-your-time-and-make-you-a-better-developer-506f79baec53
+
+Chrome 79升级后打不开任何页面的问题，在快捷方式中加入参数“--disable-features=RendererCodeIntegrity”即可
