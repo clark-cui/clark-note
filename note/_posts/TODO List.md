@@ -135,3 +135,18 @@ vscode插件
 https://levelup.gitconnected.com/15-vs-code-extension-to-save-your-time-and-make-you-a-better-developer-506f79baec53
 
 Chrome 79升级后打不开任何页面的问题，在快捷方式中加入参数“--disable-features=RendererCodeIntegrity”即可
+
+
+
+[png图片变色](https://www.zhangxinxu.com/sp/filter.html)
+
+[gredia博客](https://gridea.dev/)
+
+[B站的数据结构与算法课](https://mp.weixin.qq.com/s/nEHJ6q_rJj0VCblCx0ccFg)
+
+[如何刷leetcode](https://qoogle.top/how-to-brush-leetcode/)
+
+[crash course](https://thecrashcourse.com/)
+
+[computer-science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
