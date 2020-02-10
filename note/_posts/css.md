@@ -89,6 +89,16 @@ tags:
   ```css
   object-fit
   ```
-
+  
+- #### 特殊的居中
+  
+  ```css
+   position: absolute;
+          left:0;
+          right: 0;
+          margin: 0 auto;
+  
+  ```
+  
   
 
