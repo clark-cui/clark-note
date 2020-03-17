@@ -15,6 +15,10 @@ tags:
 ​       [git廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 ​       [git工作流](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
+​       [github添加ssh—key](https://segmentfault.com/a/1190000013759207)
+
+
+
 - #### 流程
 
   工作区(working tree)—暂存区(stage)—版本库（master分支）—远程库(remote)
@@ -47,7 +51,7 @@ tags:
 | `git rf`                        | 删除暂存区某文件（用git add .重新add会自动忽略已删除文件）   |
 | `git commit -m""`               | 添加commit                                                   |
 | `git pull origin master`        | 拉代码                                                       |
-| `git push origin master`        | 提交代码                                                     |
+| `git push origin master`        | 提交代码 -u                                                  |
 
 ##### 版本
 
@@ -63,6 +67,7 @@ tags:
 | `git remote get-url origin`             | 获取远程url                                                  |
 | `git remote add origin https://...`     | 第一次设置git远程仓库                                        |
 | `git remote set-url origin https://...` | 重新设置git远程仓库                                          |
+| `git remote add origin git@ssh`         | 第一次设置git远程仓库                                        |
 
 
 
