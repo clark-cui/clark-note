@@ -185,3 +185,7 @@ http://mp.weixin.qq.com/s?__biz=MzUxMTcwOTM4Mg==&mid=2247486564&idx=1&sn=6ffbfc0
 egg.js
 
 [百度网盘分享替代](https://sspai.com/post/58316)
+
+[github tips](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
+[github开源项目](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247488239&idx=1&sn=2836efefab27709ba5868dbdbf5306ea&chksm=fa0e7d6ecd79f478606e8b16c5fd5fb3e0f552cbb263b2cf1e2acbf309e8938b16052a0cfa30&mpshare=1&scene=23&srcid=&sharer_sharetime=1587965759577&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
