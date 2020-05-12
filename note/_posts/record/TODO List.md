@@ -189,3 +189,9 @@ egg.js
 [github tips](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 
 [github开源项目](http://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247488239&idx=1&sn=2836efefab27709ba5868dbdbf5306ea&chksm=fa0e7d6ecd79f478606e8b16c5fd5fb3e0f552cbb263b2cf1e2acbf309e8938b16052a0cfa30&mpshare=1&scene=23&srcid=&sharer_sharetime=1587965759577&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+[pull与merge](https://mp.weixin.qq.com/s?__biz=MzA3MjU5NjU2NA==&mid=2455502931&idx=1&sn=5ae6dbd8749cfd3c5b0d0e82b1fea480&chksm=88b34d68bfc4c47ebc1b531515421b5bb5a3d917b127f6f5ab30602a416a014e3915c4ca25fc&mpshare=1&scene=23&srcid=&sharer_sharetime=1589254951494&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+[commonJs](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458073440&idx=1&sn=e2d9b49f347d39d56f4af791a36ff35c&chksm=b187af1d86f0260bd80d66f821f9a9a799c0a76aa3cd0297aea2bf4350f89e8ea71a57580007&mpshare=1&scene=23&srcid=&sharer_sharetime=1589255419980&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+[http面试题](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458073447&idx=2&sn=c7ac67de742919b7dbca0dcf14e70a1c&chksm=b187af1a86f0260c8e34515053a36a9ea858d94376ecc8ef26b9cc7f21d35d0c0542b3262d4e&mpshare=1&scene=23&srcid=&sharer_sharetime=1589255128120&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
