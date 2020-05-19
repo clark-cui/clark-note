@@ -195,3 +195,7 @@ egg.js
 [commonJs](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458073440&idx=1&sn=e2d9b49f347d39d56f4af791a36ff35c&chksm=b187af1d86f0260bd80d66f821f9a9a799c0a76aa3cd0297aea2bf4350f89e8ea71a57580007&mpshare=1&scene=23&srcid=&sharer_sharetime=1589255419980&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
 
 [http面试题](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458073447&idx=2&sn=c7ac67de742919b7dbca0dcf14e70a1c&chksm=b187af1a86f0260c8e34515053a36a9ea858d94376ecc8ef26b9cc7f21d35d0c0542b3262d4e&mpshare=1&scene=23&srcid=&sharer_sharetime=1589255128120&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+吴军博士的书，浪潮之巅，数学之美，代码之美
+
+学习如何破解软件 反编译
