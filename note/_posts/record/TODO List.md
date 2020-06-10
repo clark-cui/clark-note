@@ -199,3 +199,14 @@ egg.js
 吴军博士的书，浪潮之巅，数学之美，代码之美
 
 学习如何破解软件 反编译
+
+
+
+
+
+##### 开始学习linux
+
+[windows上借助cygwin使用linux命令](https://blog.csdn.net/u010356768/article/details/90756742)（这里不用gitbash，是因为我发现man whatis命令在gitbash失效）
+
+[学习linux的好书推荐](https://www.zhihu.com/question/30328004)
+
