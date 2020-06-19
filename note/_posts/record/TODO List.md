@@ -233,3 +233,7 @@ egg.js
 ##### docker工具
 
 宝塔
+
+##### mac terminal工具
+
+item2
