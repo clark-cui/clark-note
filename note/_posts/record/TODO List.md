@@ -210,3 +210,26 @@ egg.js
 
 [学习linux的好书推荐](https://www.zhihu.com/question/30328004)
 
+
+
+
+
+[mock工具](https://mp.weixin.qq.com/s?__biz=MjM5NTk4MDA1MA==&mid=2458073690&idx=3&sn=1773e79c8cb8374e91f41a93c0265bdf&chksm=b187ac2786f02531e872ef1a4f4e77c3aed5dbc72768ab8499ec7aa62332431f823496eb4e3f&mpshare=1&scene=23&srcid=&sharer_sharetime=1590935351803&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+[githubactions](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651029992&idx=5&sn=2d4320638931411ba4aafb9ca83f2757&chksm=bdbe79bb8ac9f0ad9dd3eca00a90bf44688252a33384e0192b6b176fcb59ae89c70744cefc09&mpshare=1&scene=23&srcid=&sharer_sharetime=1591451661365&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+
+
+##### 算法
+
+[lucifer](https://lucifer.ren/blog/)
+
+##### 面试工具
+
+[前端hard面试题目](https://github.com/coffe1891/frontend-hard-mode-interview/blob/master/README.md)
+
+
+
+##### docker工具
+
+宝塔
