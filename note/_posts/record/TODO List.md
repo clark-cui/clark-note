@@ -237,3 +237,7 @@ egg.js
 ##### mac terminal工具
 
 item2
+
+
+
+[密码管理工具](https://www.rmnof.com/article/keepass-password-manager/)
