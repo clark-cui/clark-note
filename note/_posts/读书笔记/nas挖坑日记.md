@@ -102,7 +102,7 @@ docker与虚拟机在结构上是类似的，只是docker要更轻量。
 
 除了固定物理层和系统层外，虚拟机有一个模拟环境比如vmware,而docker是一个docker damon或者docker enginee。
 
-docker里会有container，是一个容器，而image则是应用和应用的配置环境。
+docker里会有多个container，是多个容器，而image则是容器里的应用和应用的配置环境。
 
 
 
@@ -120,6 +120,16 @@ docker里container的网络设置有3种，bridge/host/custome
 2. Host会让主系统ip和docker ip同样，不需要映射
 3. custome会在主路由内生成一个内网ip，与主系统ip同级，所以不需要映射。custome是网卡模式，有几张网卡就有几个custome。
 
+##### docker的文件管理
+
+上面讲过，每一次container的修改都会删除该容器的配置和文件，所以经常修改的情况下，container都不会太大。
+
+新建docker时会分配容量，大了没事，他不会多用，但如果小了，就会文件崩溃。
+
+所以如果有tramission之类的下载软件跑在docker里，则需要做文件映射，让他存储在主系统的硬盘，而不是docker里。
+
+注意要保证docker里的文件不会太大，docker里的配置和应用会打包成一个.img的文件，如果删除文件或替换文件，就会对应更改配置和程序。
+
 ### 硬盘
 
 ###### 现状
@@ -129,3 +139,13 @@ docker里container的网络设置有3种，bridge/host/custome
 ###### 综合考虑
 
 避免叠瓦盘，比如很贵的西数红盘，据说希捷酷狼也是叠瓦盘，可以选择希捷银河企业盘。
+
+
+
+------
+
+
+
+### 品牌机nas
+
+[威联通万兆nas方案](https://www.bilibili.com/video/BV1ze411p7br)
