@@ -249,3 +249,7 @@ item2
 [h5手册](https://mp.weixin.qq.com/s?__biz=MzI4NDYxNTM0OQ==&mid=2247485325&idx=1&sn=0e9ef611b8b484a00e348ab7bf8afc98&chksm=ebf9f057dc8e7941dc2393bcce63e75a10cd17a0c7fb9550ed9a5d5bc42971b8556da3876008&mpshare=1&scene=23&srcid=0708quQy7U4BUxhekdevKbAr&sharer_sharetime=1594168698997&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
 
 [前端登陆方案](https://mp.weixin.qq.com/s?__biz=MzI3NTU3ODc2MQ==&mid=2247484604&idx=1&sn=46005645a46e4d2b617ca76b71637a47&chksm=eb03ee5adc74674c5f6c34feec6bc1bea8174507a4296fb12e1947ca5b5e13cd8f7941062b54&mpshare=1&scene=23&srcid=0705jjcJzX3qofHpwxLUcF2Y&sharer_sharetime=1593911002700&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
+
+善用visbug,写一片教程
+
+[算法复杂度速查](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247491241&idx=1&sn=e79b2ed7c0dd2b178d959e84006c3bab&chksm=fa0e7128cd79f83e99d02ea9374079521fea452ac9fb06bd2a125acbe92bb1646f4c52dfe261&mpshare=1&scene=23&srcid=0711tSpsOpyJ8Aned5f9a2fY&sharer_sharetime=1594437801216&sharer_shareid=ae0aaf8bf295d1840cb80d6918537850#rd)
